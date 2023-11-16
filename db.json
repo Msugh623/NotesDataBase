@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "username": "Chia Ernest Msugh",
+      "email": "iternenge469@gmail.com",
+      "password": "eg@pass",
+      "id": "ce12983922"
+    }
+  ],
+  "notes": [
+    {
+      "title": "asp.net.com",
+      "label": "default",
+      "body": "               ..................\n               .             .\n               .             .\n               .             .\n               .             .\n               .             .\n               ...................\n\nthis is the new spur .CSS azure",
+      "id": 424155770,
+      "uid": "ce12983922"
+    },
+    {
+      "title": "new asp",
+      "label": "",
+      "body": ".net frame work offline",
+      "id": 157586625,
+      "uid": "ce12983922"
+    },
+    {
+      "title": "new azure",
+      "label": "todays school",
+      "body": "this is a test of time and no one will know how you want it to look\n  this is a test of time and no one will know how you want it to look\n   this is a test of time and no one will know how you want it to look\n   this is a test of time and no one will know how you want it to look\n   this is a test of time and no one will know how you want it to look\n  this is a test of time and no one will know how you want it to look\n this is a test of time and no one will know how you want it to look\n      this is a test of time and no one will know how you want it to look\n          this is a test of time and no one will know how you want it to look\n          this is a test of time and no one will know how you want it to look\n        this is a test of time and no one will know how you want it to look\n     this is a test of time and no one will know how you want it to look\n    this is a test of time and no one will know how you want it to look\n   this is a test of time and no one will know how you want it to look\n   this is a test of time and no one will know how you want it to look\n   this is a test of time and no one will know how you want it to look\n      this is a test of time and no one will know how you want it to look\n   ",
+      "id": 242541856,
+      "uid": "ce12983922"
+    },
+    {
+      "title": "pro basics",
+      "label": "default",
+      "body": "nothing",
+      "id": 662734018,
+      "uid": "ce12983922"
+    }
+  ],
+  "reminders": [
+    {
+      "title": "asp.net",
+      "date": "2023-11-08",
+      "time": "20:02",
+      "description": "lorem \n      ipsum\n             dolor\n       smith\nprode\npro dev\npromax\nazure",
+      "id": "rm713665112",
+      "uid": "ce12983922"
+    },
+    {
+      "title": "old as.net frame",
+      "date": "",
+      "time": "",
+      "description": "ha no today",
+      "id": "rm816844274",
+      "uid": "ce12983922"
+    }
+  ],
+  "labels": [
+    {
+      "title": "azure",
+      "id": "lb512080650",
+      "uid": "ce12983922"
+    },
+    {
+      "title": "default",
+      "id": "lb108049542",
+      "uid": "ce12983922"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "the asiks",
+      "isDone": false,
+      "parentIsDone": false,
+      "noOfSelected": 0,
+      "todos": [
+        {
+          "todo": "has 1 todo",
+          "isDone": false,
+          "id": 1
+        }
+      ],
+      "id": 285437713,
+      "uid": "ce12983922"
+    }
+  ],
+  "settings": [
+    {
+      "id": "ce12983922",
+      "accountSettingsData": {
+        "proPic": "/male.svg"
+      },
+      "themeSettingsData": {
+        "backGroundType": "img",
+        "backGroundImg": "Mond",
+        "backGroundColor": "#ffffff",
+        "backGroundImgs": [
+          {
+            "className": "Default",
+            "img": "/media/Bg/Arc (2).jpg"
+          },
+          {
+            "className": "Mond",
+            "img": "/media/Bg/Arc (3).png"
+          },
+          {
+            "className": "Night",
+            "img": "/media/Bg/Arc (1).jpg"
+          },
+          {
+            "className": "Cloak",
+            "img": "/media/Bg/wallpaper.jpg"
+          },
+          {
+            "className": "Windows",
+            "img": "/media/Bg/07 wp.jpg"
+          },
+          {
+            "className": "Pinkey",
+            "img": "/media/Bg/06 wp.jpg"
+          }
+        ]
+      },
+      "advanced": {
+        "playLogOn": true,
+        "muteSite": false
+      },
+      "feedBackSettingsData": {
+        "appRating": "",
+        "reportIssueTitle": "",
+        "reportIssueBody": ""
+      },
+      "privacySettingsData": {
+        "privacyPolicy": "",
+        "agreement": false,
+        "termsAndConditions": ""
+      },
+      "About": {
+        "logo": "/media/icons/Apex ET Logo v2.1.0 .png",
+        "ourContact": {
+          "phone": "(234) 812 166 7177",
+          "email": "iternenge469@gmail.com"
+        }
+      }
+    }
+  ]
+}
